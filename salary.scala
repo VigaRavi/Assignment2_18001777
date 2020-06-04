@@ -1,3 +1,7 @@
+//Question 1
+
+
+
 object salary {
    def main(args: Array[String]) {
      val normal_Hour:Int=40;
