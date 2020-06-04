@@ -1,3 +1,7 @@
+//Question 2
+
+
+
 object profit {
 
 def main(args: Array[String]) = {  
